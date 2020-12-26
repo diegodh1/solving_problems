@@ -5,6 +5,7 @@ import random
 import re
 import sys
 
+#LINK TO THE ORIGINAL PROBLEM HACKERRANK https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem
 
 # Complete the longestCommonSubsequence function below.
 def longestCommonSubsequence(a, b):

@@ -6,14 +6,7 @@ import random
 import re
 import sys
 
-#
-# Complete the 'getWays' function below.
-#
-# The function is expected to return a LONG_INTEGER.
-# The function accepts following parameters:
-#  1. INTEGER n
-#  2. LONG_INTEGER_ARRAY c
-#
+#LINK TO THE ORIGINAL PROBLEM HACKERRANK https://www.hackerrank.com/challenges/coin-change/problem
 
 def getWays(n, c):
     # Write your code here

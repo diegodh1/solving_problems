@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-#LINK TO THE ORIGINAL PROBLEM HACKERRANK
+#LINK TO THE ORIGINAL PROBLEM HACKERRANK https://www.hackerrank.com/challenges/equal/problem
 
 # Complete the equal function below.
 def equal(arr):
